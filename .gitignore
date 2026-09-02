@@ -12,4 +12,10 @@
 
 
 
+# Textures: Host-specific and/or auto-generated.
+/*.texture*/
+/*.Texture*/
+
+
+
 # Unsorted stuff (this section should be empty):
