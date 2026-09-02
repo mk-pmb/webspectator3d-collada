@@ -1,0 +1,31 @@
+{ "name": "webspectator3d-collada",
+  "version": "0.0.0",
+  "description": "A simple 3D viewer for browsers.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/webspectator3d-collada/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/webspectator3d-collada.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/webspectator3d-collada/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+  "scripts": { "test": "elp && nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+  "eslintConfig": { "extends": "nodejs-pmb",
+    "env": { "browser": true }
+  },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "engines": { "npm": ">=7.0.0", "node": ">=24.0.0" }
+}
