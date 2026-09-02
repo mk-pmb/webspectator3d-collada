@@ -1,0 +1,15 @@
+
+# Auto-generated files:
+/node_modules
+/tmp.*
+
+
+
+# Host-specific files
+/*.@*
+/*.dae
+/*.glb
+
+
+
+# Unsorted stuff (this section should be empty):
