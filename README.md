@@ -19,7 +19,7 @@ Installation
     that you can then download and extract onto your webspace.
 * Upload your model file in Collada (`.dae`) format.
 * Browse the webspace directory with your model file name in the URL:
-  https://your-server.example.net/webspectator3d-collada/?model=mycoolmodel.dae
+  https://example.net/webspectator3d-collada/view.html?model=mythingy.dae
 * Check if everything works (it should).
 
 

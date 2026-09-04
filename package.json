@@ -22,8 +22,14 @@
     "env": { "browser": true }
   },
 
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
+    "eslint-config-nodejs-pmb": "^0.3.14",
+    "eslint-plugin-json-light-pmb": "^1.0.7",
+    "eslint-plugin-n": "^17.16.2",
+    "eslint-pretty-pmb": "^1.0.7",
+    "nodemjs": "^0.1.18"
   },
 
 
