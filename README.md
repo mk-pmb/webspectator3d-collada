@@ -24,6 +24,17 @@ Installation
 
 
 
+First steps
+-----------
+
+### Example files
+
+If you need example scene files, have a look at the
+[`webspectator3d-examples` repo][ws3d-examples-repo].
+You could clone it into `docs/examples/`.
+
+
+
 Known issues
 ------------
 
@@ -36,6 +47,9 @@ Known issues
 <!--#toc stop="scan" -->
 
 &nbsp;
+
+
+  [ws3d-examples-repo]: https://github.com/mk-pmb/webspectator3d-examples/
 
 
 License

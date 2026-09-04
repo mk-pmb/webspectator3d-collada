@@ -1,0 +1,18 @@
+
+# Auto-generated files:
+/tmp.*
+
+
+
+# Sub-repos:
+/examples
+/examples/.git # src=github:mk-pmb/webspectator3d-examples
+
+
+
+# Host-specific files
+/*.@*
+
+
+
+# Unsorted stuff (this section should be empty):
