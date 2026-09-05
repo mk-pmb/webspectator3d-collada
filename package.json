@@ -23,6 +23,7 @@
   },
 
   "dependencies": {
+    "pako": "^2.1.0"
   },
   "devDependencies": {
     "eslint-config-nodejs-pmb": "^0.3.14",

@@ -9,17 +9,18 @@ A simple 3D viewer for browsers.
 <!--/#echo -->
 
 
+* [Try it live](https://mk-pmb.github.io/webspectator3d-collada/view.html?sceneFile=../webspectator3d-examples/scenes/simple01.dae.gz)
+
+
 
 Installation
 ------------
 
 * Copy, clone, or `npm install` this project onto dumb webspace.
-  * In case you don't want to (or cannot) use `npm install`,
-    you can instead run the GitHub Actions CI tests to generate a bundle
-    that you can then download and extract onto your webspace.
+* Run `./build/minibundle.sh` to download and bundle required dependencies.
 * Upload your model file in Collada (`.dae`) format.
 * Browse the webspace directory with your model file name in the URL:
-  https://example.net/webspectator3d-collada/view.html?model=mythingy.dae
+  https://example.net/webspectator3d-collada/view.html?sceneFile=mythingy.dae
 * Check if everything works (it should).
 
 

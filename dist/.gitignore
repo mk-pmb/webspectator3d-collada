@@ -1,9 +1,13 @@
 
 # Auto-generated files:
+/tmp.*
+
+
+### BEGIN ghpages-autodist-bundles ###
 /*.bundle.css
 /*.bundle.js
 /*.bundle.mjs
-/tmp.*
+### ENDOF ghpages-autodist-bundles ###
 
 
 
