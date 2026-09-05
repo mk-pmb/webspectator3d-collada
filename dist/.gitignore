@@ -4,6 +4,9 @@
 
 
 ### BEGIN ghpages-autodist-bundles ###
+/*.bundle.css
+/*.bundle.js
+/*.bundle.mjs
 ### ENDOF ghpages-autodist-bundles ###
 
 
